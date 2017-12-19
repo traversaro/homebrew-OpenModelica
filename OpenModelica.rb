@@ -2,7 +2,7 @@ class Openmodelica < Formula
   desc "Open-source modeling and simulation tool"
   homepage "https://openmodelica.org/"
   url "https://github.com/OpenModelica/OpenModelica/archive/v1.12.0.tar.gz"
-  sha256 "c3b89c298cc01f631ccfc427f32be67936e09d1c"
+  sha256 "82539db9dfe35631d748491725dc76c454c516668605c67896ddbebd24fd5317"
   head do
     url "https://github.com/OpenModelica/OpenModelica.git"
     option "with-library", "Build with OMLibraries"
